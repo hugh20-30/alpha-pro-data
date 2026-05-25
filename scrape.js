@@ -18,7 +18,7 @@ import fs from 'fs';
 
 const HOUSE_BASE  = 'https://disclosures-clerk.house.gov';
 const CURRENT_YEAR = new Date().getFullYear();
-const MAX_PDFS     = 500;   // cap per run · keeps action under time budget
+const MAX_PDFS     = 2000;   // cap per run · keeps action under time budget
 const FETCH_DELAY  = 50;    // ms between PDF fetches · be a polite citizen
 
 async function main() {
@@ -26,7 +26,7 @@ async function main() {
 
   // ── 1. Build the filing index from XML (current + previous year) ───────
   const filings = [];
-  for (const year of [CURRENT_YEAR, CURRENT_YEAR - 1]) {
+  for (const year of [CURRENT_YEAR, CURRENT_YEAR - 1, CURRENT_YEAR - 2, CURRENT_YEAR - 3]) {
     try {
       const yearFilings = await fetchYearIndex(year);
       console.log(`  ${year}: ${yearFilings.length} PTR filings found`);
