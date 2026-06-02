@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-01T18:20:06.468Z",
+  "generatedAt": "2026-06-02T05:02:07.066Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1649,
+  "filingsProcessed": 1651,
   "filingsFailed": 0,
-  "tradeCount": 13311,
+  "tradeCount": 13312,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -111,6 +111,18 @@
       "date": "May 15, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034650.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Ed Case",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-14",
+      "date": "May 14, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034668.pdf",
       "source": "house-clerk"
     },
     {
