@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-02T21:26:13.395Z",
+  "generatedAt": "2026-06-03T05:18:12.064Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1651,
+  "filingsProcessed": 1653,
   "filingsFailed": 0,
-  "tradeCount": 13312,
+  "tradeCount": 13318,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -15,6 +15,30 @@
       "date": "Dec 26, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Christian D. Menefee",
+      "ticker": "PINS",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-11",
+      "date": "Jun 11, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Christian D. Menefee",
+      "ticker": "PINS",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-05-28",
+      "date": "May 28, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
       "source": "house-clerk"
     },
     {
@@ -7146,6 +7170,18 @@
       "source": "house-clerk"
     },
     {
+      "name": "Christian D. Menefee",
+      "ticker": "PINS",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-02-23",
+      "date": "Feb 23, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "CLH",
       "action": "SELL",
@@ -7551,6 +7587,18 @@
       "date": "Feb 18, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Christian D. Menefee",
+      "ticker": "PINS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-17",
+      "date": "Feb 17, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
       "source": "house-clerk"
     },
     {
@@ -8019,6 +8067,18 @@
       "date": "Feb 11, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Christian D. Menefee",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-10",
+      "date": "Feb 10, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
       "source": "house-clerk"
     },
     {
@@ -78027,6 +78087,18 @@
       "date": "Feb 27, 2025",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027901.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Daniel Webster",
+      "ticker": "REXR",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-26",
+      "date": "Feb 26, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034562.pdf",
       "source": "house-clerk"
     },
     {
