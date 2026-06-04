@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-03T21:31:43.092Z",
+  "generatedAt": "2026-06-04T05:06:26.857Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1653,
+  "filingsProcessed": 1655,
   "filingsFailed": 0,
-  "tradeCount": 13318,
+  "tradeCount": 13321,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -63,6 +63,18 @@
       "date": "May 18, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Virginia Foxx",
+      "ticker": "ARLP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-15",
+      "date": "May 15, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034670.pdf",
       "source": "house-clerk"
     },
     {
@@ -159,6 +171,30 @@
       "date": "May 11, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "CTRA",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-05-08",
+      "date": "May 8, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034695.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "DVN",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-05-08",
+      "date": "May 8, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034695.pdf",
       "source": "house-clerk"
     },
     {
