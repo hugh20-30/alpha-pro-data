@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T10:13:50.209Z",
+  "generatedAt": "2026-06-04T15:44:08.511Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1655,
+  "filingsProcessed": 1658,
   "filingsFailed": 0,
-  "tradeCount": 13321,
+  "tradeCount": 13354,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -30,6 +30,18 @@
       "source": "house-clerk"
     },
     {
+      "name": "Tim Walberg",
+      "ticker": "FSSL",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Christian D. Menefee",
       "ticker": "PINS",
       "action": "SELL",
@@ -39,6 +51,90 @@
       "date": "May 28, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "ABT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-27",
+      "date": "May 27, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "INTU",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-22",
+      "date": "May 22, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "LITE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-22",
+      "date": "May 22, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "MU",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-21",
+      "date": "May 21, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "ADI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-19",
+      "date": "May 19, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$250,001 - $500,000",
+      "valueMid": 375001,
+      "dateISO": "2026-05-19",
+      "date": "May 19, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "value": "$250,001 - $500,000",
+      "valueMid": 375001,
+      "dateISO": "2026-05-19",
+      "date": "May 19, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
       "source": "house-clerk"
     },
     {
@@ -63,6 +159,18 @@
       "date": "May 18, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "TPH",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-15",
+      "date": "May 15, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
       "source": "house-clerk"
     },
     {
@@ -150,6 +258,42 @@
       "source": "house-clerk"
     },
     {
+      "name": "Cleo Fields",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-14",
+      "date": "May 14, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034591.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "NSRGY",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-14",
+      "date": "May 14, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "PANW",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-14",
+      "date": "May 14, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Ed Case",
       "ticker": "AAPL",
       "action": "SELL",
@@ -195,6 +339,18 @@
       "date": "May 8, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034695.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "SNDK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-07",
+      "date": "May 7, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
       "source": "house-clerk"
     },
     {
@@ -291,6 +447,42 @@
       "date": "May 6, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034499.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "ABBV",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-05",
+      "date": "May 5, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "AMD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-05",
+      "date": "May 5, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "NSRGY",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-05",
+      "date": "May 5, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
       "source": "house-clerk"
     },
     {
@@ -435,6 +627,42 @@
       "date": "May 5, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-04",
+      "date": "May 4, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "TWLO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-04",
+      "date": "May 4, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "FN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-01",
+      "date": "May 1, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
       "source": "house-clerk"
     },
     {
@@ -8103,6 +8331,18 @@
       "date": "Feb 11, 2026",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "UA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-10",
+      "date": "Feb 10, 2026",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
       "source": "house-clerk"
     },
     {
@@ -82671,6 +82911,162 @@
       "date": "Feb 8, 2025",
       "sector": "Other",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027975.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "AMZN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "BAC",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "BA",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "CAT",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "CVX",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "ETN",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "XOM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "J",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "LHX",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "LMT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "UA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Walberg",
+      "ticker": "WFC",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-07",
+      "date": "Feb 7, 2025",
+      "sector": "Other",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
       "source": "house-clerk"
     },
     {
