@@ -18,7 +18,7 @@ import fs from 'fs';
 
 const HOUSE_BASE  = 'https://disclosures-clerk.house.gov';
 const CURRENT_YEAR = new Date().getFullYear();
-const MAX_PDFS     = 200;   // cap per run · keeps action under time budget
+const MAX_PDFS     = 2000;  // cap per run · enough to absorb full historical window
 const FETCH_DELAY  = 50;    // ms between PDF fetches · be a polite citizen
 
 async function main() {
