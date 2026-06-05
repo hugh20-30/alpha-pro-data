@@ -18,7 +18,7 @@ import fs from 'fs';
 
 const HOUSE_BASE  = 'https://disclosures-clerk.house.gov';
 const CURRENT_YEAR = new Date().getFullYear();
-const MAX_PDFS     = 2000;   // cap per run · keeps action under time budget
+const MAX_PDFS     = 200;   // cap per run · keeps action under time budget
 const FETCH_DELAY  = 50;    // ms between PDF fetches · be a polite citizen
 
 async function main() {
@@ -26,7 +26,7 @@ async function main() {
 
   // ── 1. Build the filing index from XML (current + previous year) ───────
   const filings = [];
-  for (const year of [CURRENT_YEAR, CURRENT_YEAR - 1, CURRENT_YEAR - 2, CURRENT_YEAR - 3]) {
+  for (const year of [CURRENT_YEAR, CURRENT_YEAR - 1]) {
     try {
       const yearFilings = await fetchYearIndex(year);
       console.log(`  ${year}: ${yearFilings.length} PTR filings found`);
@@ -154,31 +154,51 @@ function parseTradesFromText(text, filing) {
   if (!memberName || !text) return [];
   const trades = [];
 
-  // Strict pattern: ticker in parens + nearby P/S + date + amount
-  // Allows up to 300 chars of slop between ticker and context (handles
-  // table cells that get jumbled after pdf-parse).
-  const re = /\(([A-Z]{1,5}(?:\.[A-Z])?)\)[\s\S]{0,300}?\b([PSE])\s*(?:\(partial\))?[\s\S]{0,80}?(\d{1,2}\/\d{1,2}\/\d{4})[\s\S]{0,80}?(\$[\d,]+(?:\s*-\s*\$[\d,]+)?(?:\s*\+)?)/g;
+  // Pattern 1: STOCKS — ticker-in-parens + nearby P/S + date + amount
+  // Allows up to 300 chars of slop (handles jumbled table cells from pdf-parse).
+  const reStock = /\(([A-Z]{1,5}(?:\.[A-Z])?)\)[\s\S]{0,300}?\b([PSE])\s*(?:\(partial\))?[\s\S]{0,80}?(\d{1,2}\/\d{1,2}\/\d{4})[\s\S]{0,80}?(\$[\d,]+(?:\s*-\s*\$[\d,]+)?(?:\s*\+)?)/g;
 
   let m;
-  while ((m = re.exec(text)) !== null) {
+  while ((m = reStock.exec(text)) !== null) {
     const [, ticker, type, dateStr, amount] = m;
     const dateISO = parseMDY(dateStr);
     if (!dateISO) continue;
     // E = exchange · skip ambiguous types
     const action = type === 'P' ? 'BUY' : type === 'S' ? 'SELL' : null;
     if (!action) continue;
-    // Normalize the value string — pdf-parse sometimes injects \n between
-    // the two halves of an amount range. Collapse to single spaces.
     const cleanValue = amount.replace(/\s+/g, ' ').trim();
     trades.push({
       name: memberName,
       ticker: ticker.toUpperCase(),
-      action,
-      value: cleanValue,
-      valueMid: midpointOf(cleanValue),
-      dateISO,
-      date: formatDate(dateISO),
-      sector: 'Other',  // worker-side enrichment fills this
+      action, value: cleanValue, valueMid: midpointOf(cleanValue),
+      dateISO, date: formatDate(dateISO),
+      sector: 'Other',
+      assetType: 'stock',
+      receipt: `${HOUSE_BASE}/public_disc/ptr-pdfs/${filing.year}/${filing.docID}.pdf`,
+      source: 'house-clerk'
+    });
+  }
+
+  // Pattern 2: BONDS — match keywords "Bond" / "Note" / "Treasury" / "Muni"
+  // followed by a date + amount. Bonds don't have tickers, so we synthesize a
+  // pseudo-ticker from the first ~3 capitalized words near the match.
+  const reBond = /\b(Treasury|U\.S\. Treasury|Muni(?:cipal)?|Corporate|Bond|Note|Bill)\b[\s\S]{0,200}?\b([PSE])\s*(?:\(partial\))?[\s\S]{0,80}?(\d{1,2}\/\d{1,2}\/\d{4})[\s\S]{0,80}?(\$[\d,]+(?:\s*-\s*\$[\d,]+)?(?:\s*\+)?)/g;
+  while ((m = reBond.exec(text)) !== null) {
+    const [matched, kind, type, dateStr, amount] = m;
+    const dateISO = parseMDY(dateStr);
+    if (!dateISO) continue;
+    const action = type === 'P' ? 'BUY' : type === 'S' ? 'SELL' : null;
+    if (!action) continue;
+    // Synthesise a meaningful "ticker" from the bond type
+    const kindUpper = kind.toUpperCase().replace(/[^A-Z]/g, '').slice(0, 5) || 'BOND';
+    const cleanValue = amount.replace(/\s+/g, ' ').trim();
+    trades.push({
+      name: memberName,
+      ticker: kindUpper,            // e.g. "TREASURY", "MUNI"
+      action, value: cleanValue, valueMid: midpointOf(cleanValue),
+      dateISO, date: formatDate(dateISO),
+      sector: 'Fixed Income',
+      assetType: 'bond',
       receipt: `${HOUSE_BASE}/public_disc/ptr-pdfs/${filing.year}/${filing.docID}.pdf`,
       source: 'house-clerk'
     });
