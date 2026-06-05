@@ -26,7 +26,7 @@ async function main() {
 
   // ── 1. Build the filing index from XML (current + previous year) ───────
   const filings = [];
-  for (const year of [CURRENT_YEAR, CURRENT_YEAR - 1]) {
+  for (const year of [CURRENT_YEAR, CURRENT_YEAR - 1, CURRENT_YEAR - 2, CURRENT_YEAR - 3]) {
     try {
       const yearFilings = await fetchYearIndex(year);
       console.log(`  ${year}: ${yearFilings.length} PTR filings found`);
