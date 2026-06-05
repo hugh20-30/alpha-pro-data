@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-05T15:29:51.431Z",
+  "generatedAt": "2026-06-05T20:14:05.460Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1658,
+  "filingsProcessed": 1660,
   "filingsFailed": 0,
-  "tradeCount": 13784,
+  "tradeCount": 13786,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -250,6 +250,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Lloyd Doggett",
+      "ticker": "PG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-15",
+      "date": "May 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034712.pdf",
       "source": "house-clerk"
     },
     {
@@ -1654,6 +1667,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Susie Lee",
+      "ticker": "FLL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-04-21",
+      "date": "Apr 21, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034552.pdf",
       "source": "house-clerk"
     },
     {
