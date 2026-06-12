@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-12T10:41:35.776Z",
+  "generatedAt": "2026-06-12T15:40:28.918Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1676,
+  "filingsProcessed": 1678,
   "filingsFailed": 0,
-  "tradeCount": 13961,
+  "tradeCount": 13963,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -2343,6 +2343,32 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034417.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Mike Kelly",
+      "ticker": "BMY",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-05-07",
+      "date": "May 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034767.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Mike Kelly",
+      "ticker": "CMCSA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-07",
+      "date": "May 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034767.pdf",
       "source": "house-clerk"
     },
     {
