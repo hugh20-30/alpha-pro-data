@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-11T20:37:56.176Z",
+  "generatedAt": "2026-06-12T05:04:15.055Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1671,
+  "filingsProcessed": 1676,
   "filingsFailed": 0,
-  "tradeCount": 13957,
+  "tradeCount": 13961,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -94,6 +94,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John McGuire",
+      "ticker": "DELL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-04",
+      "date": "Jun 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034748.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John McGuire",
+      "ticker": "META",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-04",
+      "date": "Jun 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034748.pdf",
       "source": "house-clerk"
     },
     {
@@ -367,6 +393,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Suzan K. DelBene",
+      "ticker": "BOND",
+      "action": "BUY",
+      "value": "$500,001 - $1,000,000",
+      "valueMid": 750001,
+      "dateISO": "2026-05-28",
+      "date": "May 28, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034727.pdf",
       "source": "house-clerk"
     },
     {
@@ -1771,6 +1810,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034668.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Chip Roy",
+      "ticker": "AESI",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2026-05-13",
+      "date": "May 13, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034762.pdf",
       "source": "house-clerk"
     },
     {
