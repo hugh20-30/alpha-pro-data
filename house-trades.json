@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-15T12:44:02.933Z",
+  "generatedAt": "2026-06-15T21:26:19.832Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1678,
+  "filingsProcessed": 1681,
   "filingsFailed": 0,
-  "tradeCount": 13963,
+  "tradeCount": 13972,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -94,6 +94,97 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "AMZN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "AEP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "AMGN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "T",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "KR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "LRCX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf",
       "source": "house-clerk"
     },
     {
@@ -1914,6 +2005,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Julie Johnson",
+      "ticker": "ABT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-12",
+      "date": "May 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034706.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Julie Johnson",
+      "ticker": "ACN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-12",
+      "date": "May 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034706.pdf",
       "source": "house-clerk"
     },
     {
