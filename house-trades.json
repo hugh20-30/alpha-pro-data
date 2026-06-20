@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-19T20:04:47.533Z",
+  "generatedAt": "2026-06-20T04:42:32.857Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1685,
+  "filingsProcessed": 1686,
   "filingsFailed": 0,
-  "tradeCount": 13990,
+  "tradeCount": 13995,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -419,6 +419,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "CHKP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034783.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "EQT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034783.pdf",
       "source": "house-clerk"
     },
     {
@@ -887,6 +913,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "BDX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-21",
+      "date": "May 21, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034783.pdf",
       "source": "house-clerk"
     },
     {
@@ -1875,6 +1914,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034650.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "AMCR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-14",
+      "date": "May 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034783.pdf",
       "source": "house-clerk"
     },
     {
@@ -3279,6 +3331,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "USTRE",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-05-04",
+      "date": "May 4, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034783.pdf",
       "source": "house-clerk"
     },
     {
