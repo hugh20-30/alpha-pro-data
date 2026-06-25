@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-25T15:13:34.643Z",
+  "generatedAt": "2026-06-25T20:24:10.634Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1690,
+  "filingsProcessed": 1691,
   "filingsFailed": 0,
-  "tradeCount": 14006,
+  "tradeCount": 14008,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -263,6 +263,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Dwight Evans",
+      "ticker": "GD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-10",
+      "date": "Jun 10, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Dwight Evans",
+      "ticker": "INTC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-10",
+      "date": "Jun 10, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf",
       "source": "house-clerk"
     },
     {
