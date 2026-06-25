@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T20:08:20.011Z",
+  "generatedAt": "2026-06-25T04:35:05.852Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1688,
+  "filingsProcessed": 1690,
   "filingsFailed": 0,
-  "tradeCount": 14004,
+  "tradeCount": 14006,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -458,6 +458,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "ticker": "INTC",
+      "action": "BUY",
+      "value": "$1,000,001 - $5,000,000",
+      "valueMid": 3000001,
+      "dateISO": "2026-05-29",
+      "date": "May 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "ticker": "UBER",
+      "action": "BUY",
+      "value": "$500,001 - $1,000,000",
+      "valueMid": 750001,
+      "dateISO": "2026-05-29",
+      "date": "May 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf",
       "source": "house-clerk"
     },
     {
