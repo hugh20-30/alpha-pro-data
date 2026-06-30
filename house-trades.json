@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-29T20:16:31.725Z",
+  "generatedAt": "2026-06-30T04:35:25.742Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1691,
+  "filingsProcessed": 1693,
   "filingsFailed": 0,
-  "tradeCount": 14008,
+  "tradeCount": 14012,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -253,6 +253,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Cleo Fields",
+      "ticker": "GOOG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-15",
+      "date": "Jun 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-11",
+      "date": "Jun 11, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Christian D. Menefee",
       "ticker": "PINS",
       "action": "SELL",
@@ -380,6 +406,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034780.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "QNT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-04",
+      "date": "Jun 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
       "source": "house-clerk"
     },
     {
@@ -731,6 +770,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034718.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Greg Stanton",
+      "ticker": "TCNNF",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2026-05-28",
+      "date": "May 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034717.pdf",
       "source": "house-clerk"
     },
     {
