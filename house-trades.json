@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T14:29:56.600Z",
+  "generatedAt": "2026-07-02T19:52:53.635Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1695,
+  "filingsProcessed": 1697,
   "filingsFailed": 0,
-  "tradeCount": 14012,
+  "tradeCount": 14015,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -250,6 +250,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "CVX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-15",
+      "date": "Jun 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034897.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "IBP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-15",
+      "date": "Jun 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034897.pdf",
       "source": "house-clerk"
     },
     {
@@ -523,6 +549,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Max Miller",
+      "ticker": "CORPO",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-05-29",
+      "date": "May 29, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034869.pdf",
       "source": "house-clerk"
     },
     {
