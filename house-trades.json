@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T15:15:20.746Z",
+  "generatedAt": "2026-07-07T20:15:55.848Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1701,
+  "filingsProcessed": 1700,
   "filingsFailed": 0,
-  "tradeCount": 14080,
+  "tradeCount": 14076,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -302,19 +302,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Lloyd Doggett",
-      "ticker": "HD",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-18",
-      "date": "Jun 18, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
       "source": "house-clerk"
     },
     {
@@ -825,19 +812,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Lloyd Doggett",
-      "ticker": "PPG",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-12",
-      "date": "Jun 12, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Gilbert Cisneros",
       "ticker": "FSV",
       "action": "SELL",
@@ -887,19 +861,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Lloyd Doggett",
-      "ticker": "IBM",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-10",
-      "date": "Jun 10, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
       "source": "house-clerk"
     },
     {
@@ -965,19 +926,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Lloyd Doggett",
-      "ticker": "JNJ",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-09",
-      "date": "Jun 9, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
       "source": "house-clerk"
     },
     {
