@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T15:34:40.575Z",
+  "generatedAt": "2026-07-09T20:05:14.893Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1706,
+  "filingsProcessed": 1710,
   "filingsFailed": 0,
-  "tradeCount": 14113,
+  "tradeCount": 14118,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -81,6 +81,32 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028007.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John McGuire",
+      "ticker": "BLK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-07",
+      "date": "Jul 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Susie Lee",
+      "ticker": "FLL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-01",
+      "date": "Jul 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf",
       "source": "house-clerk"
     },
     {
@@ -809,6 +835,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John McGuire",
+      "ticker": "SPCX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-15",
+      "date": "Jun 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf",
       "source": "house-clerk"
     },
     {
@@ -1693,6 +1732,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Susie Lee",
+      "ticker": "FLL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf",
       "source": "house-clerk"
     },
     {
@@ -102300,6 +102352,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026658.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Ritchie John Torres",
+      "ticker": "MCK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-01-07",
+      "date": "Jan 7, 2025",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034224.pdf",
       "source": "house-clerk"
     },
     {
