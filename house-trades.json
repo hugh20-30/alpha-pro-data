@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-10T14:52:45.700Z",
+  "generatedAt": "2026-07-10T19:52:18.004Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1710,
+  "filingsProcessed": 1715,
   "filingsFailed": 0,
-  "tradeCount": 14118,
+  "tradeCount": 14132,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -107,6 +107,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Robert J. Wittman",
+      "ticker": "CCI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-30",
+      "date": "Jun 30, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034916.pdf",
       "source": "house-clerk"
     },
     {
@@ -315,6 +328,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott H. Peters",
+      "ticker": "TREAS",
+      "action": "SELL",
+      "value": "$250,001 - $500,000",
+      "valueMid": 375001,
+      "dateISO": "2026-06-25",
+      "date": "Jun 25, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034911.pdf",
       "source": "house-clerk"
     },
     {
@@ -942,6 +968,123 @@
       "source": "house-clerk"
     },
     {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "ABT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "ADI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "BLK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "CSCO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "ICE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "IMCB",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "LHX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "SPSM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "UNH",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "CNM",
       "action": "SELL",
@@ -1017,6 +1160,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott H. Peters",
+      "ticker": "TREAS",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-06-11",
+      "date": "Jun 11, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034911.pdf",
       "source": "house-clerk"
     },
     {
@@ -1173,6 +1329,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Tim Moore",
+      "ticker": "DASH",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-09",
+      "date": "Jun 9, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034952.pdf",
       "source": "house-clerk"
     },
     {
@@ -1732,6 +1901,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott H. Peters",
+      "ticker": "TREAS",
+      "action": "BUY",
+      "value": "$250,001 - $500,000",
+      "valueMid": 375001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034911.pdf",
       "source": "house-clerk"
     },
     {
