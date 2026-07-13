@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T15:11:56.341Z",
+  "generatedAt": "2026-07-13T19:50:30.064Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1715,
+  "filingsProcessed": 1720,
   "filingsFailed": 0,
-  "tradeCount": 14132,
+  "tradeCount": 14138,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -81,6 +81,58 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028007.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Rick Larsen",
+      "ticker": "ABT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-08",
+      "date": "Jul 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Rick Larsen",
+      "ticker": "APH",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-08",
+      "date": "Jul 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Rick Larsen",
+      "ticker": "MCK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-08",
+      "date": "Jul 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Rick Larsen",
+      "ticker": "SPGI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-08",
+      "date": "Jul 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf",
       "source": "house-clerk"
     },
     {
@@ -354,6 +406,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Virginia Foxx",
+      "ticker": "ARLP",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-18",
+      "date": "Jun 18, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
       "source": "house-clerk"
     },
     {
@@ -965,6 +1030,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John James",
+      "ticker": "SPCX",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034949.pdf",
       "source": "house-clerk"
     },
     {
