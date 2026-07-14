@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T14:14:41.034Z",
+  "generatedAt": "2026-07-14T19:44:08.004Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1720,
+  "filingsProcessed": 1721,
   "filingsFailed": 0,
-  "tradeCount": 14138,
+  "tradeCount": 14139,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -81,6 +81,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028007.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Rudy C. Yakym",
+      "ticker": "TREAS",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-07-13",
+      "date": "Jul 13, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034984.pdf",
       "source": "house-clerk"
     },
     {
