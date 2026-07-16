@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T14:23:02.418Z",
+  "generatedAt": "2026-07-16T19:35:47.820Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1724,
+  "filingsProcessed": 1729,
   "filingsFailed": 0,
-  "tradeCount": 14142,
+  "tradeCount": 14167,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -162,6 +162,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Kevin Hern",
+      "ticker": "XOM",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2026-07-02",
+      "date": "Jul 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035013.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Susie Lee",
       "ticker": "FLL",
       "action": "SELL",
@@ -172,6 +185,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "ADI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-30",
+      "date": "Jun 30, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
       "source": "house-clerk"
     },
     {
@@ -396,6 +422,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Kevin Hern",
+      "ticker": "HONAV",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-29",
+      "date": "Jun 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035013.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Debbie Dingell",
       "ticker": "HONAV",
       "action": "SELL",
@@ -422,6 +461,45 @@
       "source": "house-clerk"
     },
     {
+      "name": "Thomas H. Kean",
+      "ticker": "JNJ",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-29",
+      "date": "Jun 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "MKL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-29",
+      "date": "Jun 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "SPGI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-29",
+      "date": "Jun 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Scott H. Peters",
       "ticker": "TREAS",
       "action": "SELL",
@@ -435,6 +513,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Thomas H. Kean",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-24",
+      "date": "Jun 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "ESAB",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-24",
+      "date": "Jun 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Gilbert Cisneros",
       "ticker": "VLTO",
       "action": "SELL",
@@ -445,6 +549,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "ESAB",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-22",
+      "date": "Jun 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
       "source": "house-clerk"
     },
     {
@@ -497,6 +614,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "GIL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "USTRE",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
       "source": "house-clerk"
     },
     {
@@ -981,6 +1124,45 @@
       "source": "house-clerk"
     },
     {
+      "name": "Jonathan Jackson",
+      "ticker": "HLT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-15",
+      "date": "Jun 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034908.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "MCK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-15",
+      "date": "Jun 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034908.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "SPHR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-15",
+      "date": "Jun 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034908.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "John McGuire",
       "ticker": "SPCX",
       "action": "SELL",
@@ -1358,6 +1540,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Richard W. Allen",
+      "ticker": "INTU",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-10",
+      "date": "Jun 10, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034945.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "WAB",
       "action": "SELL",
@@ -1462,6 +1657,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Byron Donalds",
+      "ticker": "ZTS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-09",
+      "date": "Jun 9, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034968.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Tim Moore",
       "ticker": "DASH",
       "action": "SELL",
@@ -1563,6 +1771,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Byron Donalds",
+      "ticker": "CDNS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034968.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Byron Donalds",
+      "ticker": "MPWR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034968.pdf",
       "source": "house-clerk"
     },
     {
@@ -1826,6 +2060,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Thomas H. Kean",
+      "ticker": "WPM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-04",
+      "date": "Jun 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "HUBB",
       "action": "SELL",
@@ -1969,6 +2216,84 @@
       "source": "house-clerk"
     },
     {
+      "name": "Thomas H. Kean",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-02",
+      "date": "Jun 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "GIL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-02",
+      "date": "Jun 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "JNJ",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-02",
+      "date": "Jun 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "MKL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-02",
+      "date": "Jun 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-02",
+      "date": "Jun 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "SYK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-02",
+      "date": "Jun 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "LYV",
       "action": "SELL",
@@ -2031,6 +2356,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "CHKP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "EQT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
       "source": "house-clerk"
     },
     {
@@ -2135,32 +2486,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034938.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Thomas H. Kean",
-      "ticker": "CHKP",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-01",
-      "date": "Jun 1, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034783.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Thomas H. Kean",
-      "ticker": "EQT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-01",
-      "date": "Jun 1, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034783.pdf",
       "source": "house-clerk"
     },
     {
