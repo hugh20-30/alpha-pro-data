@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T19:33:22.032Z",
+  "generatedAt": "2026-07-18T03:31:44.038Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1729,
-  "filingsFailed": 0,
-  "tradeCount": 14167,
+  "filingsProcessed": 1733,
+  "filingsFailed": 1,
+  "tradeCount": 14175,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -497,6 +497,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035003.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-26",
+      "date": "Jun 26, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034894.pdf",
       "source": "house-clerk"
     },
     {
@@ -2356,6 +2369,71 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Daniel Crenshaw",
+      "ticker": "GOOG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Daniel Crenshaw",
+      "ticker": "AMZN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Daniel Crenshaw",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Daniel Crenshaw",
+      "ticker": "META",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Daniel Crenshaw",
+      "ticker": "USOU",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-01",
+      "date": "Jun 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
       "source": "house-clerk"
     },
     {
@@ -5336,6 +5414,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Daniel Crenshaw",
+      "ticker": "META",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-05-05",
+      "date": "May 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Gilbert Cisneros",
       "ticker": "GOOGL",
       "action": "SELL",
@@ -6048,6 +6139,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034487.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Daniel Crenshaw",
+      "ticker": "META",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-04-28",
+      "date": "Apr 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
       "source": "house-clerk"
     },
     {
