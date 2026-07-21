@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T19:57:36.753Z",
+  "generatedAt": "2026-07-21T03:45:14.882Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1734,
+  "filingsProcessed": 1737,
   "filingsFailed": 0,
-  "tradeCount": 14206,
+  "tradeCount": 14212,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -565,6 +565,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Laurel Lee",
+      "ticker": "NOK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-06",
+      "date": "Jul 6, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Kevin Hern",
       "ticker": "XOM",
       "action": "SELL",
@@ -1098,6 +1111,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Laurel Lee",
+      "ticker": "GE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-16",
+      "date": "Jun 16, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "HUBB",
       "action": "BUY",
@@ -1537,6 +1563,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "William R. Timmons",
+      "ticker": "SPCX",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-06-15",
+      "date": "Jun 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20022577.pdf",
       "source": "house-clerk"
     },
     {
@@ -2629,6 +2668,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Laurel Lee",
+      "ticker": "BAC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-02",
+      "date": "Jun 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Laurel Lee",
+      "ticker": "NOK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-02",
+      "date": "Jun 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
       "source": "house-clerk"
     },
     {
@@ -4995,6 +5060,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034709.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Laurel Lee",
+      "ticker": "NOK",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-05-11",
+      "date": "May 11, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf",
       "source": "house-clerk"
     },
     {
