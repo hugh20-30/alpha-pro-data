@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T14:22:25.294Z",
+  "generatedAt": "2026-07-21T19:53:16.397Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1737,
+  "filingsProcessed": 1738,
   "filingsFailed": 0,
-  "tradeCount": 14212,
+  "tradeCount": 14215,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -81,6 +81,45 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028007.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "James A. Himes",
+      "ticker": "BAC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-20",
+      "date": "Jul 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "James A. Himes",
+      "ticker": "XOM",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-07-20",
+      "date": "Jul 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "James A. Himes",
+      "ticker": "HD",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-07-20",
+      "date": "Jul 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf",
       "source": "house-clerk"
     },
     {
