@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T19:56:11.461Z",
+  "generatedAt": "2026-07-28T03:35:17.906Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1739,
+  "filingsProcessed": 1744,
   "filingsFailed": 0,
-  "tradeCount": 14215,
+  "tradeCount": 14226,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -81,6 +81,45 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028007.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Pete Sessions",
+      "ticker": "ARCC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035068.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Sam T. Liccardo",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-07-21",
+      "date": "Jul 21, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034736.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Robert E. Latta",
+      "ticker": "FMAO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-20",
+      "date": "Jul 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035065.pdf",
       "source": "house-clerk"
     },
     {
@@ -1033,6 +1072,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Jared Moskowitz",
+      "ticker": "AMAT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-18",
+      "date": "Jun 18, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Virginia Foxx",
       "ticker": "ARLP",
       "action": "SELL",
@@ -1082,6 +1134,84 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "HCA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "HD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "META",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "MNST",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "SPGI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
       "source": "house-clerk"
     },
     {
@@ -1758,6 +1888,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "SPCX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-12",
+      "date": "Jun 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf",
       "source": "house-clerk"
     },
     {
