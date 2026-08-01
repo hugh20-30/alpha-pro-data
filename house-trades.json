@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T19:54:43.496Z",
+  "generatedAt": "2026-08-01T03:50:07.072Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1746,
+  "filingsProcessed": 1748,
   "filingsFailed": 0,
-  "tradeCount": 14226,
+  "tradeCount": 14228,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -172,6 +172,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034984.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "TSM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-10",
+      "date": "Jul 10, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035023.pdf",
       "source": "house-clerk"
     },
     {
@@ -913,6 +926,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034906.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kelly Louise Morrison",
+      "ticker": "HONAV",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-29",
+      "date": "Jun 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034972.pdf",
       "source": "house-clerk"
     },
     {
