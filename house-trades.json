@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T19:15:41.511Z",
+  "generatedAt": "2026-08-08T02:22:21.853Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1753,
+  "filingsProcessed": 1754,
   "filingsFailed": 0,
-  "tradeCount": 14329,
+  "tradeCount": 14335,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -487,6 +487,71 @@
       "source": "house-clerk"
     },
     {
+      "name": "David J. Taylor",
+      "ticker": "AVGO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "FITB",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "KR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "MPC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "BWXT",
       "action": "SELL",
@@ -822,6 +887,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-17",
+      "date": "Jul 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf",
       "source": "house-clerk"
     },
     {
