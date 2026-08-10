@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T13:44:37.725Z",
+  "generatedAt": "2026-08-10T19:17:26.553Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1762,
+  "filingsProcessed": 1754,
   "filingsFailed": 0,
-  "tradeCount": 14371,
+  "tradeCount": 14335,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -81,32 +81,6 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028007.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Christian D. Menefee",
-      "ticker": "PINS",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-08-07",
-      "date": "Aug 7, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035157.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "CCI",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-06",
-      "date": "Aug 6, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -302,32 +276,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Maria Elvira Salazar",
-      "ticker": "BRK.B",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-28",
-      "date": "Jul 28, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Maria Elvira Salazar",
-      "ticker": "CARR",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-07-28",
-      "date": "Jul 28, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf",
       "source": "house-clerk"
     },
     {
@@ -1605,45 +1553,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "LLY",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-01",
-      "date": "Jul 1, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "KLAC",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-01",
-      "date": "Jul 1, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Maria Elvira Salazar",
-      "ticker": "CB",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-07-01",
-      "date": "Jul 1, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035138.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Lloyd Doggett",
       "ticker": "KO",
       "action": "SELL",
@@ -1904,19 +1813,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "GOOGL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-29",
-      "date": "Jun 29, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Kelly Louise Morrison",
       "ticker": "HONAV",
       "action": "SELL",
@@ -2018,84 +1914,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034894.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "GOOGL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-25",
-      "date": "Jun 25, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "AMZN",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-25",
-      "date": "Jun 25, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "AAPL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-25",
-      "date": "Jun 25, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "MU",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-25",
-      "date": "Jun 25, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "MSFT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-25",
-      "date": "Jun 25, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "NVDA",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-06-25",
-      "date": "Jun 25, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -7049,32 +6867,6 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034502.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "META",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-05-06",
-      "date": "May 6, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "PLTR",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-05-06",
-      "date": "May 6, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -15463,19 +15255,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "MSFT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-20",
-      "date": "Feb 20, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Rob Bresnahan",
       "ticker": "MUNIC",
       "action": "BUY",
@@ -17657,19 +17436,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034105.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "MSFT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-05",
-      "date": "Feb 5, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -20507,32 +20273,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "META",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-09",
-      "date": "Jan 9, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "PLTR",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-09",
-      "date": "Jan 9, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Michael Patrick Guest",
       "ticker": "CHRD",
       "action": "SELL",
@@ -21817,19 +21557,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "LLY",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-02",
-      "date": "Jan 2, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -25954,19 +25681,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "KO",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-12-03",
-      "date": "Dec 3, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Julie Johnson",
       "ticker": "BA",
       "action": "SELL",
@@ -26042,19 +25756,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033590.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "LLY",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-12-02",
-      "date": "Dec 2, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -35275,19 +34976,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "AAPL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-27",
-      "date": "Oct 27, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "James D Jordan",
       "ticker": "CBSI",
       "action": "SELL",
@@ -38444,19 +38132,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033413.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "GEV",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-06",
-      "date": "Oct 6, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -42708,19 +42383,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "META",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-09-18",
-      "date": "Sep 18, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -50225,32 +49887,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "AAPL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-08-01",
-      "date": "Aug 1, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "NVDA",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-08-01",
-      "date": "Aug 1, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Scott H. Peters",
       "ticker": "TREAS",
       "action": "BUY",
@@ -50495,19 +50131,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031013.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "NVDA",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-07-31",
-      "date": "Jul 31, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -55500,32 +55123,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030901.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "GOOGL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-07-03",
-      "date": "Jul 3, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "AMZN",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-07-03",
-      "date": "Jul 3, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -70762,19 +70359,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030433.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "PRU",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-05-07",
-      "date": "May 7, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -103915,19 +103499,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "ORCL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-01-14",
-      "date": "Jan 14, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Valerie Hoyle",
       "ticker": "NVDA",
       "action": "SELL",
@@ -107217,19 +106788,6 @@
       "source": "house-clerk"
     },
     {
-      "name": "Michael Rulli",
-      "ticker": "NOW",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2024-12-16",
-      "date": "Dec 16, 2024",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
-      "source": "house-clerk"
-    },
-    {
       "name": "Thomas H. Kean",
       "ticker": "ABT",
       "action": "SELL",
@@ -107526,19 +107084,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026533.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "TMO",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2024-12-12",
-      "date": "Dec 12, 2024",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
@@ -108774,19 +108319,6 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20026314.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Michael Rulli",
-      "ticker": "PFE",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2024-11-26",
-      "date": "Nov 26, 2024",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
       "source": "house-clerk"
     },
     {
