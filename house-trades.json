@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T19:20:17.437Z",
+  "generatedAt": "2026-08-12T02:44:50.872Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1762,
+  "filingsProcessed": 1765,
   "filingsFailed": 0,
-  "tradeCount": 14371,
+  "tradeCount": 14395,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -107,6 +107,110 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "CMCSA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "DEO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "EL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "KVUE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "MDLZ",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "OGN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "VSNT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John J Mr McGuire",
+      "ticker": "PANW",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-31",
+      "date": "Jul 31, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
       "source": "house-clerk"
     },
     {
@@ -539,6 +643,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Josh Gottheimer",
+      "ticker": "GOOGM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "GOOGN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "David J. Taylor",
       "ticker": "AVGO",
       "action": "SELL",
@@ -721,6 +851,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Josh Gottheimer",
+      "ticker": "GOOGN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-23",
+      "date": "Jul 23, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "CCI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-23",
+      "date": "Jul 23, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "HUBB",
       "action": "SELL",
@@ -822,6 +978,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034736.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "NICE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-20",
+      "date": "Jul 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "SAIL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-20",
+      "date": "Jul 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
       "source": "house-clerk"
     },
     {
@@ -942,6 +1124,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Josh Gottheimer",
+      "ticker": "GTLS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-17",
+      "date": "Jul 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "MNST",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-17",
+      "date": "Jul 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "David J. Taylor",
       "ticker": "GOOGL",
       "action": "SELL",
@@ -1007,6 +1215,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Josh Gottheimer",
+      "ticker": "IBM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-16",
+      "date": "Jul 16, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "PANW",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-16",
+      "date": "Jul 16, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "CPAY",
       "action": "SELL",
@@ -1017,6 +1251,45 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "CRWD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-15",
+      "date": "Jul 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "IBM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-15",
+      "date": "Jul 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John J Mr McGuire",
+      "ticker": "AMAT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-15",
+      "date": "Jul 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
       "source": "house-clerk"
     },
     {
@@ -1033,6 +1306,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Josh Gottheimer",
+      "ticker": "FN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-14",
+      "date": "Jul 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035186.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John J Mr McGuire",
+      "ticker": "BLK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-14",
+      "date": "Jul 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Rudy C. Yakym",
       "ticker": "TREAS",
       "action": "BUY",
@@ -1043,6 +1342,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034984.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John J Mr McGuire",
+      "ticker": "BLK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-10",
+      "date": "Jul 10, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
       "source": "house-clerk"
     },
     {
