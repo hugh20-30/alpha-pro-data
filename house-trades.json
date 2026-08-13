@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T13:47:32.794Z",
+  "generatedAt": "2026-08-13T19:21:02.020Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1768,
+  "filingsProcessed": 1771,
   "filingsFailed": 0,
-  "tradeCount": 14398,
+  "tradeCount": 14399,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -111,6 +111,32 @@
     },
     {
       "name": "Kevin Hern",
+      "ticker": "OGN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "VSNT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-05",
+      "date": "Aug 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
       "ticker": "CMCSA",
       "action": "SELL",
       "value": "$1,001 - $15,000",
@@ -164,32 +190,6 @@
     {
       "name": "Kevin Hern",
       "ticker": "MDLZ",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-05",
-      "date": "Aug 5, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Kevin Hern",
-      "ticker": "OGN",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-05",
-      "date": "Aug 5, 2026",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Kevin Hern",
-      "ticker": "VSNT",
       "action": "SELL",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
@@ -1953,6 +1953,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035013.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Rob Bresnahan",
+      "ticker": "TREAS",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-07-01",
+      "date": "Jul 1, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035216.pdf",
       "source": "house-clerk"
     },
     {
