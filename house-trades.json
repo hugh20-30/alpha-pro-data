@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T13:42:57.393Z",
+  "generatedAt": "2026-08-14T19:14:30.434Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1771,
+  "filingsProcessed": 1777,
   "filingsFailed": 0,
-  "tradeCount": 14399,
+  "tradeCount": 14402,
   "trades": [
     {
       "name": "Lori Trahan",
@@ -20871,6 +20871,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Shri Thanedar",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2026-01-09",
+      "date": "Jan 9, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Michael Rulli",
       "ticker": "META",
       "action": "SELL",
@@ -36224,6 +36237,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Shri Thanedar",
+      "ticker": "MSTR",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-10-21",
+      "date": "Oct 21, 2025",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Julie Johnson",
       "ticker": "ALK",
       "action": "SELL",
@@ -51301,6 +51327,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030824.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Derek Tran",
+      "ticker": "LTC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-07-28",
+      "date": "Jul 28, 2025",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035183.pdf",
       "source": "house-clerk"
     },
     {
@@ -91032,6 +91071,58 @@
       "source": "house-clerk"
     },
     {
+      "name": "Carol Devine Miller",
+      "ticker": "PFE",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-03-10",
+      "date": "Mar 10, 2025",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Carol Devine Miller",
+      "ticker": "DGX",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-03-10",
+      "date": "Mar 10, 2025",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Carol Devine Miller",
+      "ticker": "TGT",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-03-10",
+      "date": "Mar 10, 2025",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Carol Devine Miller",
+      "ticker": "USB",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-03-10",
+      "date": "Mar 10, 2025",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Tim Moore",
       "ticker": "TNA",
       "action": "BUY",
@@ -91176,59 +91267,7 @@
     },
     {
       "name": "Carol Devine Miller",
-      "ticker": "PFE",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-03-10",
-      "date": "Mar 10, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Carol Devine Miller",
-      "ticker": "DGX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-03-10",
-      "date": "Mar 10, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Carol Devine Miller",
-      "ticker": "TGT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-03-10",
-      "date": "Mar 10, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Carol Devine Miller",
       "ticker": "HSY",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-03-10",
-      "date": "Mar 10, 2025",
-      "sector": "Other",
-      "assetType": "stock",
-      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf",
-      "source": "house-clerk"
-    },
-    {
-      "name": "Carol Devine Miller",
-      "ticker": "USB",
       "action": "SELL",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
