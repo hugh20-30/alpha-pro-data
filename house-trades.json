@@ -1,10 +1,23 @@
 {
-  "generatedAt": "2026-08-18T13:08:16.716Z",
+  "generatedAt": "2026-08-18T18:57:24.788Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1779,
+  "filingsProcessed": 1781,
   "filingsFailed": 0,
-  "tradeCount": 14432,
+  "tradeCount": 14436,
   "trades": [
+    {
+      "name": "Steve Cohen",
+      "ticker": "CORPO",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2027-08-05",
+      "date": "Aug 5, 2027",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035235.pdf",
+      "source": "house-clerk"
+    },
     {
       "name": "Lori Trahan",
       "ticker": "TREAS",
@@ -747,6 +760,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Scott H. Peters",
+      "ticker": "TREAS",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-07-28",
+      "date": "Jul 28, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035191.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Maria Elvira Salazar",
       "ticker": "BRK.B",
       "action": "SELL",
@@ -874,6 +900,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott H. Peters",
+      "ticker": "TREAS",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-07-27",
+      "date": "Jul 27, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035191.pdf",
       "source": "house-clerk"
     },
     {
@@ -1186,6 +1225,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035068.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott H. Peters",
+      "ticker": "TREAS",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-07-23",
+      "date": "Jul 23, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035191.pdf",
       "source": "house-clerk"
     },
     {
