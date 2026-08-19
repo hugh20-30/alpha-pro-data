@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T13:09:27.009Z",
+  "generatedAt": "2026-08-19T18:54:39.076Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1781,
+  "filingsProcessed": 1785,
   "filingsFailed": 0,
-  "tradeCount": 14436,
+  "tradeCount": 14446,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -81,6 +81,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Ed Case",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-13",
+      "date": "Aug 13, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf",
       "source": "house-clerk"
     },
     {
@@ -1319,6 +1332,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Thomas H. Kean",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-22",
+      "date": "Jul 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "SYK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-22",
+      "date": "Jul 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "FWONK",
       "action": "SELL",
@@ -1732,6 +1771,45 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard W. Allen",
+      "ticker": "ABT",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-07-14",
+      "date": "Jul 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard W. Allen",
+      "ticker": "AMD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-14",
+      "date": "Jul 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard W. Allen",
+      "ticker": "AVGO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-14",
+      "date": "Jul 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf",
       "source": "house-clerk"
     },
     {
@@ -2203,6 +2281,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Thomas H. Kean",
+      "ticker": "AMZN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-08",
+      "date": "Jul 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "TOST",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-08",
+      "date": "Jul 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "April McClain Delaney",
       "ticker": "ENTG",
       "action": "SELL",
@@ -2278,6 +2382,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "EQT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-07",
+      "date": "Jul 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "ESAB",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-07",
+      "date": "Jul 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf",
       "source": "house-clerk"
     },
     {
