@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T18:57:58.702Z",
+  "generatedAt": "2026-08-22T01:50:47.327Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1785,
+  "filingsProcessed": 1787,
   "filingsFailed": 0,
-  "tradeCount": 14446,
+  "tradeCount": 14451,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -84,6 +84,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Tim Moore",
+      "ticker": "T",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-08-14",
+      "date": "Aug 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035291.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "IBP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-14",
+      "date": "Aug 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Ed Case",
       "ticker": "AAPL",
       "action": "SELL",
@@ -94,6 +120,45 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "PG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf",
       "source": "house-clerk"
     },
     {
