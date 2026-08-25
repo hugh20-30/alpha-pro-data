@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T18:59:45.093Z",
+  "generatedAt": "2026-08-25T01:53:41.621Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1787,
+  "filingsProcessed": 1790,
   "filingsFailed": 0,
-  "tradeCount": 14451,
+  "tradeCount": 14457,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -838,6 +838,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Nancy Pelosi",
+      "ticker": "BE",
+      "action": "SELL",
+      "value": "$500,001 - $1,000,000",
+      "valueMid": 750001,
+      "dateISO": "2026-07-28",
+      "date": "Jul 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "ticker": "BE",
+      "action": "BUY",
+      "value": "$500,001 - $1,000,000",
+      "valueMid": 750001,
+      "dateISO": "2026-07-28",
+      "date": "Jul 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Scott H. Peters",
       "ticker": "TREAS",
       "action": "SELL",
@@ -1095,6 +1121,58 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "ticker": "BE",
+      "action": "SELL",
+      "value": "$1,000,001 - $5,000,000",
+      "valueMid": 3000001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "ticker": "BE",
+      "action": "BUY",
+      "value": "$1,000,001 - $5,000,000",
+      "valueMid": 3000001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "ticker": "INTC",
+      "action": "BUY",
+      "value": "$250,001 - $500,000",
+      "valueMid": 375001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "ticker": "INTC",
+      "action": "SELL",
+      "value": "$500,001 - $1,000,000",
+      "valueMid": 750001,
+      "dateISO": "2026-07-24",
+      "date": "Jul 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
       "source": "house-clerk"
     },
     {
