@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T20:03:48.361Z",
+  "generatedAt": "2026-08-27T09:47:33.842Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1790,
+  "filingsProcessed": 1793,
   "filingsFailed": 0,
-  "tradeCount": 14457,
+  "tradeCount": 14462,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -84,6 +84,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Michael Rulli",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-08-24",
+      "date": "Aug 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035309.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Tim Moore",
       "ticker": "T",
       "action": "SELL",
@@ -120,6 +133,58 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "William R. Keating",
+      "ticker": "NOTE",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035293.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kelly Louise Morrison",
+      "ticker": "ACN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kelly Louise Morrison",
+      "ticker": "MBGL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kelly Louise Morrison",
+      "ticker": "SPGI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
       "source": "house-clerk"
     },
     {
