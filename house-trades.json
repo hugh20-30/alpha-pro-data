@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-28T11:23:40.105Z",
+  "generatedAt": "2026-08-28T22:19:49.904Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1793,
+  "filingsProcessed": 1794,
   "filingsFailed": 0,
-  "tradeCount": 14462,
+  "tradeCount": 14465,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -2044,6 +2044,45 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035180.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "AMAT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-13",
+      "date": "Jul 13, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "STE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-13",
+      "date": "Jul 13, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "ticker": "GWW",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-13",
+      "date": "Jul 13, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf",
       "source": "house-clerk"
     },
     {
