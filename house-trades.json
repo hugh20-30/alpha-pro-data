@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T16:26:20.387Z",
+  "generatedAt": "2026-09-03T21:02:41.511Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1797,
+  "filingsProcessed": 1800,
   "filingsFailed": 0,
-  "tradeCount": 14493,
+  "tradeCount": 14498,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -214,6 +214,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "John J Mr McGuire",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-18",
+      "date": "Aug 18, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John J Mr McGuire",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-18",
+      "date": "Aug 18, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Kevin Hern",
       "ticker": "BUD",
       "action": "SELL",
@@ -331,6 +357,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Cleo Fields",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-13",
+      "date": "Aug 13, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035345.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Kevin Hern",
       "ticker": "BA",
       "action": "SELL",
@@ -406,6 +445,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "ALL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-12",
+      "date": "Aug 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf",
       "source": "house-clerk"
     },
     {
@@ -549,6 +601,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028007.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "EQIX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-07",
+      "date": "Aug 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf",
       "source": "house-clerk"
     },
     {
