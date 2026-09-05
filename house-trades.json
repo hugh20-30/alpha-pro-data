@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T20:47:02.355Z",
+  "generatedAt": "2026-09-05T04:27:27.478Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1800,
+  "filingsProcessed": 1801,
   "filingsFailed": 0,
-  "tradeCount": 14498,
+  "tradeCount": 14499,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -81,6 +81,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "VSAT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-28",
+      "date": "Aug 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf",
       "source": "house-clerk"
     },
     {
