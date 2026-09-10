@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T20:56:59.693Z",
+  "generatedAt": "2026-09-10T04:42:43.597Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1805,
+  "filingsProcessed": 1807,
   "filingsFailed": 0,
-  "tradeCount": 14569,
+  "tradeCount": 14570,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -367,6 +367,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Lloyd Doggett",
+      "ticker": "PG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-17",
+      "date": "Aug 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035401.pdf",
       "source": "house-clerk"
     },
     {
