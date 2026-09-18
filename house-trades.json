@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T16:25:27.165Z",
+  "generatedAt": "2026-09-18T20:55:56.330Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1819,
+  "filingsProcessed": 1821,
   "filingsFailed": 0,
-  "tradeCount": 14721,
+  "tradeCount": 14731,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -81,6 +81,32 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "IBP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-08",
+      "date": "Sep 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "PG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-08",
+      "date": "Sep 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf",
       "source": "house-clerk"
     },
     {
@@ -185,6 +211,71 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott Scott Franklin",
+      "ticker": "ACN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-26",
+      "date": "Aug 26, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott Scott Franklin",
+      "ticker": "LSYIX",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-26",
+      "date": "Aug 26, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott Scott Franklin",
+      "ticker": "LSYIX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-26",
+      "date": "Aug 26, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott Scott Franklin",
+      "ticker": "NVO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-26",
+      "date": "Aug 26, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott Scott Franklin",
+      "ticker": "PEP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-26",
+      "date": "Aug 26, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
       "source": "house-clerk"
     },
     {
@@ -952,6 +1043,45 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott Scott Franklin",
+      "ticker": "GOOG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-20",
+      "date": "Aug 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott Scott Franklin",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-20",
+      "date": "Aug 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Scott Scott Franklin",
+      "ticker": "JPM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-20",
+      "date": "Aug 20, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf",
       "source": "house-clerk"
     },
     {
