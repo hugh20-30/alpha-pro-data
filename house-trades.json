@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T12:47:43.810Z",
+  "generatedAt": "2026-09-21T21:59:57.350Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1821,
+  "filingsProcessed": 1822,
   "filingsFailed": 0,
-  "tradeCount": 14731,
+  "tradeCount": 14733,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -81,6 +81,32 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Pete Sessions",
+      "ticker": "ABBV",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-14",
+      "date": "Sep 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Pete Sessions",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-14",
+      "date": "Sep 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf",
       "source": "house-clerk"
     },
     {
