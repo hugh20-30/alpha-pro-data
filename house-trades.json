@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T16:58:00.375Z",
+  "generatedAt": "2026-09-23T21:31:11.860Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1823,
+  "filingsProcessed": 1826,
   "filingsFailed": 0,
-  "tradeCount": 14738,
+  "tradeCount": 14742,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -81,6 +81,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Pete Sessions",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2026-09-22",
+      "date": "Sep 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf",
       "source": "house-clerk"
     },
     {
@@ -2057,6 +2070,45 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard W. Allen",
+      "ticker": "AVGO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-12",
+      "date": "Aug 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard W. Allen",
+      "ticker": "ROL",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-08-12",
+      "date": "Aug 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard W. Allen",
+      "ticker": "TSM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-12",
+      "date": "Aug 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
       "source": "house-clerk"
     },
     {
