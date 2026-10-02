@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T12:33:36.530Z",
+  "generatedAt": "2026-10-02T22:14:01.855Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1830,
+  "filingsProcessed": 1833,
   "filingsFailed": 0,
-  "tradeCount": 14817,
+  "tradeCount": 14824,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -84,6 +84,45 @@
       "source": "house-clerk"
     },
     {
+      "name": "David J. Taylor",
+      "ticker": "AMGN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-22",
+      "date": "Sep 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "HD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-22",
+      "date": "Sep 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "David J. Taylor",
+      "ticker": "MPC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-22",
+      "date": "Sep 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Pete Sessions",
       "ticker": "AAPL",
       "action": "SELL",
@@ -146,6 +185,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "GOOG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-14",
+      "date": "Sep 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "NFLX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-14",
+      "date": "Sep 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
       "source": "house-clerk"
     },
     {
@@ -292,6 +357,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Cleo Fields",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-10",
+      "date": "Sep 10, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Kevin Hern",
       "ticker": "ETN",
       "action": "SELL",
@@ -393,6 +471,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-08",
+      "date": "Sep 8, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
       "source": "house-clerk"
     },
     {
