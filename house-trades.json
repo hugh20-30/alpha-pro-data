@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T14:35:59.329Z",
+  "generatedAt": "2026-10-06T00:05:08.770Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1833,
+  "filingsProcessed": 1835,
   "filingsFailed": 0,
-  "tradeCount": 14824,
+  "tradeCount": 14827,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -81,6 +81,19 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-28",
+      "date": "Sep 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
       "source": "house-clerk"
     },
     {
@@ -588,6 +601,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "GS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-03",
+      "date": "Sep 3, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "WFC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-03",
+      "date": "Sep 3, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
       "source": "house-clerk"
     },
     {
