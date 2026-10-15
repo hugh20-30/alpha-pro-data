@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T17:01:24.088Z",
+  "generatedAt": "2026-10-15T21:23:52.881Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1849,
+  "filingsProcessed": 1853,
   "filingsFailed": 0,
-  "tradeCount": 14950,
+  "tradeCount": 14953,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -942,6 +942,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Richard W. Allen",
+      "ticker": "AZO",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-22",
+      "date": "Sep 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Gilbert Cisneros",
       "ticker": "TSM",
       "action": "SELL",
@@ -1069,6 +1082,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard W. Allen",
+      "ticker": "COST",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-18",
+      "date": "Sep 18, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Richard Dean Dr McCormick",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-18",
+      "date": "Sep 18, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf",
       "source": "house-clerk"
     },
     {
