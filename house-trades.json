@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T13:12:41.033Z",
+  "generatedAt": "2026-10-19T22:22:16.583Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1856,
+  "filingsProcessed": 1857,
   "filingsFailed": 0,
-  "tradeCount": 14958,
+  "tradeCount": 14960,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -1147,6 +1147,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Laurel Lee",
+      "ticker": "NOKBF",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-18",
+      "date": "Sep 18, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
       "source": "house-clerk"
     },
     {
@@ -3669,6 +3682,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035408.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Laurel Lee",
+      "ticker": "BAC",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-08-24",
+      "date": "Aug 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
       "source": "house-clerk"
     },
     {
