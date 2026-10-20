@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T11:34:54.047Z",
+  "generatedAt": "2026-10-20T17:04:19.160Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1857,
+  "filingsProcessed": 1859,
   "filingsFailed": 0,
-  "tradeCount": 14960,
+  "tradeCount": 14968,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -68,6 +68,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "GOOG",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-10-16",
+      "date": "Oct 16, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "WSBC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-16",
+      "date": "Oct 16, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf",
       "source": "house-clerk"
     },
     {
@@ -471,6 +497,71 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "DDOG",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-09-28",
+      "date": "Sep 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "EL",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-09-28",
+      "date": "Sep 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "GH",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-28",
+      "date": "Sep 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "VSAT",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-09-28",
+      "date": "Sep 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "WMT",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-09-28",
+      "date": "Sep 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
       "source": "house-clerk"
     },
     {
@@ -2161,6 +2252,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "TYG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-04",
+      "date": "Sep 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
       "source": "house-clerk"
     },
     {
