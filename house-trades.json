@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T21:43:00.860Z",
+  "generatedAt": "2026-10-22T04:43:07.389Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1859,
+  "filingsProcessed": 1861,
   "filingsFailed": 0,
-  "tradeCount": 14968,
+  "tradeCount": 14969,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -68,6 +68,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Rudy C. Yakym",
+      "ticker": "TREAS",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-10-20",
+      "date": "Oct 20, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035691.pdf",
       "source": "house-clerk"
     },
     {
