@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T21:26:18.596Z",
+  "generatedAt": "2026-10-24T04:35:35.564Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1861,
+  "filingsProcessed": 1863,
   "filingsFailed": 0,
-  "tradeCount": 14969,
+  "tradeCount": 14973,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -110,6 +110,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Darrell E. Issa",
+      "ticker": "TREAS",
+      "action": "SELL",
+      "value": "$5,000,001 - $25,000,000",
+      "valueMid": 15000001,
+      "dateISO": "2026-10-14",
+      "date": "Oct 14, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "David J. Taylor",
       "ticker": "PG",
       "action": "SELL",
@@ -120,6 +133,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "TSM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-09",
+      "date": "Oct 9, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
       "source": "house-clerk"
     },
     {
@@ -159,6 +185,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Darrell E. Issa",
+      "ticker": "TREAS",
+      "action": "BUY",
+      "value": "$5,000,001 - $25,000,000",
+      "valueMid": 15000001,
+      "dateISO": "2026-10-08",
+      "date": "Oct 8, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf",
       "source": "house-clerk"
     },
     {
@@ -224,6 +263,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Cleo Fields",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-01",
+      "date": "Oct 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
       "source": "house-clerk"
     },
     {
