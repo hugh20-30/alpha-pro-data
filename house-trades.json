@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T22:46:40.721Z",
+  "generatedAt": "2026-10-30T05:46:20.179Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1868,
+  "filingsProcessed": 1872,
   "filingsFailed": 0,
-  "tradeCount": 15004,
+  "tradeCount": 15007,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -107,6 +107,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "ASML",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-10-23",
+      "date": "Oct 23, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "STX",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-10-23",
+      "date": "Oct 23, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
       "source": "house-clerk"
     },
     {
@@ -237,6 +263,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Kevin Hern",
+      "ticker": "TXN",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-10-14",
+      "date": "Oct 14, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
       "source": "house-clerk"
     },
     {
