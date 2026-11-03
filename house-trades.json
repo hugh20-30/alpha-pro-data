@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T15:48:11.350Z",
+  "generatedAt": "2026-11-03T00:58:56.458Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1873,
+  "filingsProcessed": 1877,
   "filingsFailed": 0,
-  "tradeCount": 15013,
+  "tradeCount": 15024,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -773,6 +773,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "John J Mr McGuire",
+      "ticker": "MU",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-01",
+      "date": "Oct 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Pete Sessions",
       "ticker": "HON",
       "action": "SELL",
@@ -825,6 +838,32 @@
       "source": "house-clerk"
     },
     {
+      "name": "Thomas H. Kean",
+      "ticker": "JNJ",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-30",
+      "date": "Sep 30, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "SYK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-30",
+      "date": "Sep 30, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Lisa McClain",
       "ticker": "IBRX",
       "action": "SELL",
@@ -874,6 +913,32 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "ESAB",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-29",
+      "date": "Sep 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Carol Devine Miller",
+      "ticker": "HONA",
+      "action": "SELL",
+      "value": "$710",
+      "valueMid": 710,
+      "dateISO": "2026-09-29",
+      "date": "Sep 29, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf",
       "source": "house-clerk"
     },
     {
@@ -1202,6 +1267,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "John J Mr McGuire",
+      "ticker": "MU",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-25",
+      "date": "Sep 25, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Josh Gottheimer",
       "ticker": "MCD",
       "action": "SELL",
@@ -1212,6 +1290,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John J Mr McGuire",
+      "ticker": "AVGO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-24",
+      "date": "Sep 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John J Mr McGuire",
+      "ticker": "MU",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-24",
+      "date": "Sep 24, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
       "source": "house-clerk"
     },
     {
@@ -1576,6 +1680,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "MDLZ",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-23",
+      "date": "Sep 23, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
       "source": "house-clerk"
     },
     {
@@ -2044,6 +2161,32 @@
       "sector": "Fixed Income",
       "assetType": "bond",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035539.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "ABT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-17",
+      "date": "Sep 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "TXN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-17",
+      "date": "Sep 17, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
       "source": "house-clerk"
     },
     {
