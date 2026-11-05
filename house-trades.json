@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T06:44:47.641Z",
+  "generatedAt": "2026-11-05T19:57:29.459Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1879,
+  "filingsProcessed": 1882,
   "filingsFailed": 0,
-  "tradeCount": 15025,
+  "tradeCount": 15029,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -107,6 +107,45 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Maria Elvira Salazar",
+      "ticker": "CSCO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-23",
+      "date": "Oct 23, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Maria Elvira Salazar",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-23",
+      "date": "Oct 23, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Maria Elvira Salazar",
+      "ticker": "PG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-23",
+      "date": "Oct 23, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
       "source": "house-clerk"
     },
     {
@@ -1277,6 +1316,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Daniel Meuser",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-25",
+      "date": "Sep 25, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf",
       "source": "house-clerk"
     },
     {
