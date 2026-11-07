@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T19:25:22.418Z",
+  "generatedAt": "2026-11-07T05:58:27.154Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1882,
+  "filingsProcessed": 1883,
   "filingsFailed": 0,
-  "tradeCount": 15029,
+  "tradeCount": 15032,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -107,6 +107,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "AMAT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-26",
+      "date": "Oct 26, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
       "source": "house-clerk"
     },
     {
@@ -305,6 +318,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Josh Gottheimer",
+      "ticker": "TLK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-15",
+      "date": "Oct 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "David J. Taylor",
       "ticker": "T",
       "action": "SELL",
@@ -458,6 +484,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "ticker": "BHE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-12",
+      "date": "Oct 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
       "source": "house-clerk"
     },
     {
