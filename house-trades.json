@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T06:23:55.763Z",
+  "generatedAt": "2026-11-09T22:20:45.033Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1883,
+  "filingsProcessed": 1886,
   "filingsFailed": 0,
-  "tradeCount": 15032,
+  "tradeCount": 15034,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -315,6 +315,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "John J Mr McGuire",
+      "ticker": "WDC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-15",
+      "date": "Oct 15, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf",
       "source": "house-clerk"
     },
     {
@@ -640,6 +653,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "ticker": "WBD",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-10-07",
+      "date": "Oct 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
       "source": "house-clerk"
     },
     {
