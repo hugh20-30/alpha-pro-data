@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T15:12:29.877Z",
+  "generatedAt": "2026-11-12T23:38:45.773Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1891,
+  "filingsProcessed": 1893,
   "filingsFailed": 0,
-  "tradeCount": 15095,
+  "tradeCount": 15098,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -1202,6 +1202,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Richard W. Allen",
+      "ticker": "SHW",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-09",
+      "date": "Oct 9, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Gilbert Cisneros",
       "ticker": "BNS",
       "action": "SELL",
@@ -1449,6 +1462,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Richard W. Allen",
+      "ticker": "TREAS",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-10-02",
+      "date": "Oct 2, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Pete Sessions",
       "ticker": "ABT",
       "action": "SELL",
@@ -1667,6 +1693,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Lloyd Doggett",
+      "ticker": "KO",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-01",
+      "date": "Oct 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf",
       "source": "house-clerk"
     },
     {
