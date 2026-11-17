@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T22:02:07.566Z",
+  "generatedAt": "2026-11-17T07:54:12.321Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1894,
+  "filingsProcessed": 1898,
   "filingsFailed": 0,
-  "tradeCount": 15110,
+  "tradeCount": 15116,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -68,6 +68,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "James French Hill",
+      "ticker": "JBGS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-09",
+      "date": "Nov 9, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf",
       "source": "house-clerk"
     },
     {
@@ -458,6 +471,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "DDOG",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-22",
+      "date": "Oct 22, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
       "source": "house-clerk"
     },
     {
@@ -903,6 +929,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Scott H. Peters",
+      "ticker": "TREAS",
+      "action": "SELL",
+      "value": "$500,001 - $1,000,000",
+      "valueMid": 750001,
+      "dateISO": "2026-10-16",
+      "date": "Oct 16, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Gilbert Cisneros",
       "ticker": "TXRH",
       "action": "SELL",
@@ -1329,6 +1368,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "EL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-12",
+      "date": "Oct 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "SPHR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-12",
+      "date": "Oct 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
       "source": "house-clerk"
     },
     {
@@ -1849,6 +1914,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "ticker": "BP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-01",
+      "date": "Oct 1, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
       "source": "house-clerk"
     },
     {
