@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T20:55:18.844Z",
+  "generatedAt": "2026-11-18T07:26:16.432Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1898,
+  "filingsProcessed": 1899,
   "filingsFailed": 0,
-  "tradeCount": 15116,
+  "tradeCount": 15120,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -1680,6 +1680,58 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Byron Donalds",
+      "ticker": "ADSK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-02",
+      "date": "Oct 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Byron Donalds",
+      "ticker": "IBKR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-02",
+      "date": "Oct 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Byron Donalds",
+      "ticker": "NFLX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-02",
+      "date": "Oct 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Byron Donalds",
+      "ticker": "ZTS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-02",
+      "date": "Oct 2, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
       "source": "house-clerk"
     },
     {
