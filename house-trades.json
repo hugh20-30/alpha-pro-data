@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T07:23:37.384Z",
+  "generatedAt": "2026-11-19T20:34:40.435Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1899,
+  "filingsProcessed": 1903,
   "filingsFailed": 0,
-  "tradeCount": 15120,
+  "tradeCount": 15133,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -71,6 +71,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Michael Rulli",
+      "ticker": "COST",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-12",
+      "date": "Nov 12, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "James French Hill",
       "ticker": "JBGS",
       "action": "SELL",
@@ -81,6 +94,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Terri A. Sewell",
+      "ticker": "TPR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-05",
+      "date": "Nov 5, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf",
       "source": "house-clerk"
     },
     {
@@ -133,6 +159,58 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-04",
+      "date": "Nov 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "LLY",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-04",
+      "date": "Nov 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "LITE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-04",
+      "date": "Nov 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Michael Rulli",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-04",
+      "date": "Nov 4, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
       "source": "house-clerk"
     },
     {
@@ -266,6 +344,19 @@
       "source": "house-clerk"
     },
     {
+      "name": "Michael Rulli",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-28",
+      "date": "Oct 28, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+      "source": "house-clerk"
+    },
+    {
       "name": "Pete Sessions",
       "ticker": "DIS",
       "action": "SELL",
@@ -276,6 +367,45 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "JNJ",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-27",
+      "date": "Oct 27, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-10-27",
+      "date": "Oct 27, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "SYK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-27",
+      "date": "Oct 27, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
       "source": "house-clerk"
     },
     {
@@ -588,6 +718,19 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "USTRE",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-10-20",
+      "date": "Oct 20, 2026",
+      "sector": "Fixed Income",
+      "assetType": "bond",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
       "source": "house-clerk"
     },
     {
@@ -1602,6 +1745,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Thomas H. Kean",
+      "ticker": "WBD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-07",
+      "date": "Oct 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Steve Cohen",
+      "ticker": "WBD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-07",
+      "date": "Oct 7, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf",
       "source": "house-clerk"
     },
     {
