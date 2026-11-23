@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T07:35:23.684Z",
+  "generatedAt": "2026-11-23T23:54:17.248Z",
   "source": "https://disclosures-clerk.house.gov",
-  "filingsProcessed": 1903,
+  "filingsProcessed": 1905,
   "filingsFailed": 0,
-  "tradeCount": 15133,
+  "tradeCount": 15135,
   "trades": [
     {
       "name": "Steve Cohen",
@@ -68,6 +68,32 @@
       "sector": "Other",
       "assetType": "stock",
       "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Jennifer McClellan",
+      "ticker": "VZ",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2026-11-19",
+      "date": "Nov 19, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf",
+      "source": "house-clerk"
+    },
+    {
+      "name": "Ed Case",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-16",
+      "date": "Nov 16, 2026",
+      "sector": "Other",
+      "assetType": "stock",
+      "receipt": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf",
       "source": "house-clerk"
     },
     {
